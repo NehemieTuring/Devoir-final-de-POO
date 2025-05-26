@@ -1,0 +1,4 @@
+====================================
+Les exceptions a gérer
+====================================
+-Exception sur l'inscription(si même identifiant)
